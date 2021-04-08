@@ -25,7 +25,7 @@ SECRET_KEY = '1didaw)gq(9n9mt0k0eh16jho!c8u667cp0a_^*g3!dwr^n$j2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cybercycloid.com','cybercycloiddeploy.herokuapp.com','127.0.0.1']
 
 
 # Application definition
